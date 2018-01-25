@@ -15,8 +15,8 @@ const manager = new TradeOfferManager({
 //To Change Log in information to sign into any account.
 //Code of iamflipster: 7PyvQ1Cqc1P8p0Bbfb/zm36zR7M=
 const logOnOptions = {
-    accountName: "pubgradebot",
-    password: "SimpleFlip3",
+    accountName: "", //Password information on other file.
+    password: "", //Password information on other file.
     twoFactorCode: SteamTotp.generateAuthCode("7J4UnsxXoNmjkRCAjhfa33SroA8=_")
 };
 
